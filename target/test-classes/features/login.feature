@@ -12,3 +12,4 @@ Examples:
 |Username				|Password         |
 |alejames4@gmail.com	|I'mgettingRICH11112029|
 |parimala@gmail.com		|124356@1111|
+|lovely21@gmail.com 	|4568254@1122|
